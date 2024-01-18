@@ -8,7 +8,7 @@ package strategy;
 public class Forward extends Player{
     
     /**
-     * @param Forward creates an instance of the parent class that regards the player to the position of Forward
+     * @param Forward creates an instance of the parent class that regards the player to the position of a Forward.
      */
     public Forward(String firstName, String lastName) {
         super(firstName, lastName);
