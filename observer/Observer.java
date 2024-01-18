@@ -19,7 +19,7 @@ public interface Observer {
     /**
      * This method will print out the notes that the observer is keep. 
      * The notes are specific to the class that is implementing them.
-     * @return it will return the notes of the observers
+     * @return it will return the notes of the observers, depedning on their specific type of notes.
      */
     public String getLog();
 }
