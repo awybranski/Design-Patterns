@@ -2,7 +2,7 @@ package strategy;
 /**
  * @author Alayna Wybranski
  * @version 1.0
- * child of Player class that gives characteristics focusing on a Defensive Player
+ * Is a child of Player class that gives characteristics focusing on a Defensive Player
  */
 public class Defenceman extends Player{
     
