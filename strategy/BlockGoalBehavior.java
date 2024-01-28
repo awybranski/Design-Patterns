@@ -22,5 +22,7 @@ public class BlockGoalBehavior implements DefenceBehavior, OffenceBehavior{
             return "blocks puck with knew pads";
         else 
             return "blocks puck with stick";
+
+        // could have made a string array and returned it based on length of array with random
     }
 }

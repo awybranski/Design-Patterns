@@ -20,6 +20,7 @@ public abstract class Player {
     public Player(String firstName, String lastName){
         this.firstName = firstName;
         this.lastName = lastName;
+        //Should have called setOffence/Deffence behavior here
     }
 
     /**  @param setDefenceBavior public method that sets the player's defensive actions/beahviors.
