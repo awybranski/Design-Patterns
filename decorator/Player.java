@@ -39,7 +39,7 @@ public abstract class Player {
      * @return a string, the image of our warrior, with or without the modifications.
      */
     public String toString(){
-        String output = "";
+        String output = "#### " + name + " ####\n";
 
         for(int i = 0; i < lines.size(); i++){
             output += lines.get(i) + "\n";
