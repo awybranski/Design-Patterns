@@ -11,3 +11,6 @@ Design Patterns Assignments for CSCE 247
 
 4. Assignment 4: State - 
     For this assignment, we were given a driver file, file reader class, text files, and a UML diagram. We were told to implement a program that correctly moves throughout the states of the system based on the user's input. From what the user inputs, the program will read through a grade level's spellingList and store the information in an ArrayList. It will then randomly grab words from the list and print them to the console. The user can also change states, move from first to second to third grade and back down. It, however, does not go past or below those grades.
+
+5. Assignment 5: Singleton - 
+    For this assignment, we were given a UI file, file reader class, a text file, and a UML diagram. We were told to implement a program that correctly holds the information inputted through the files. We are told to create one instance of the FlashCard class so that we do not lose information. We then create a word class that will be implemented by the FlashCard class and will hold all of the information regarding the word.
