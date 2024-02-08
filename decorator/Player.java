@@ -26,10 +26,10 @@ public abstract class Player {
     }
 
     /**
-     * The is an accessor for the protected data member name;
+     * This is an accessor for the protected data member name;
      * @return the name of the warrior.
      */
-    public String getName(){
+    public String getName(){ 
         return this.name;
     }
 
