@@ -14,3 +14,6 @@ Design Patterns Assignments for CSCE 247
 
 5. Assignment 5: Singleton - 
     For this assignment, we were given a UI file, file reader class, a text file, and a UML diagram. We were told to implement a program that correctly holds the information inputted through the files. We are told to create one instance of the FlashCard class so that we do not lose information. We then create a word class that will be implemented by the FlashCard class and will hold all of the information regarding the word.
+
+6. Assignment 6: Iterator - 
+    For this assignment, we were given a driver file, UML diagram, and an output.txt. We were told to implement a program that correctly utilizes the UML diagram that was given. This program will act as a SCRUMBoard by utilizing java's iterator interface and creating classes, such as TaskLists, Tickets, etc. 
